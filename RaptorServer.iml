@@ -39,7 +39,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="commons-vfs2-2.0-javadoc" level="project" />
+    <orderEntry type="library" name="ganymed-ssh2-build251beta1" level="project" />
   </component>
 </module>
 
