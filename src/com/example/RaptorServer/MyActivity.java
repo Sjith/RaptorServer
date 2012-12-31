@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 
 import java.io.*;
-import java.util.regex.Pattern;
 
 import ch.ethz.ssh2.*;
 
@@ -27,11 +26,11 @@ public class MyActivity extends Activity {
 
         try
         {
-            Connection conn = new Connection(Globals.hostname);
+            Connection conn = new Connection(Globals_default.hostname);
 
             conn.connect();
 
-            boolean isAuthenticated = conn.authenticateWithPassword(Globals.username, Globals.password);
+            boolean isAuthenticated = conn.authenticateWithPassword(Globals_default.username, Globals_default.password);
 
             if (isAuthenticated == false)
                 throw new IOException("Authentication failed.");

@@ -28,29 +28,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83fbed66-a929-458c-86ca-666352c5fb4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\NOTICE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\RELEASE-NOTES.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-2.0-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-2.0-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-2.0-test-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-2.0-tests.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-examples-2.0-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-examples-2.0-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\commons-vfs-2.0\commons-vfs2-examples-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\RaptorServer\jsch-0.1.49.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RaptorServer.iml" afterPath="$PROJECT_DIR$/RaptorServer.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/RaptorServer/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/example/RaptorServer/MyActivity.java" />
+      <change type="MOVED" beforePath="D:\Documents\GitHub\RaptorServer\src\com\example\RaptorServer\Globals.java" afterPath="$PROJECT_DIR$/src/com/example/RaptorServer/Globals_default.java" />
     </list>
     <ignored path="RaptorServer.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356601815031" ignored="false" />
-    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356599744665" ignored="false" />
-    <file path="/MyActivity.java" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356604708963" ignored="false" />
     <file path="/fragment.java" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356605430469" ignored="false" />
+    <file path="/MyActivity.java" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356604708963" ignored="false" />
+    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356599744665" ignored="false" />
+    <file path="/Dummy.txt" changelist="83fbed66-a929-458c-86ca-666352c5fb4e" time="1356601815031" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,10 +100,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="36" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.35849056">
+            <state line="64" column="36" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,10 +111,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Globals.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java">
+      <file leaf-file-name="Globals_default.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals_default.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="43" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="42" selection-start="72" selection-end="72" vertical-scroll-proportion="0.07402032">
               <folding />
             </state>
           </provider>
@@ -174,6 +171,8 @@
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/RaptorServer/MyActivity.java" />
         <option value="$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java" />
+        <option value="$PROJECT_DIR$/src/com/example/RaptorServer/Globals_default.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -212,6 +211,21 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaptorServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaptorServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,21 +278,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RaptorServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RaptorServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,12 +294,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="Downloaded.Files.Path" value="D:\Documents\GitHub\RaptorServer\lib" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.RaptorServer">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -348,24 +347,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -391,6 +372,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -628,19 +627,26 @@
         <state line="17" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="43" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+        <state line="64" column="36" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals_default.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="36" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.35849056">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="3" column="42" selection-start="72" selection-end="72" vertical-scroll-proportion="0.07402032">
+          <folding />
         </state>
       </provider>
     </entry>
