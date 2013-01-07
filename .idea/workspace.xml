@@ -25,7 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83fbed66-a929-458c-86ca-666352c5fb4e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java" afterPath="$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java" />
+      <change type="DELETED" beforePath="D:\Projects\Android Projects\RaptorServer\src\com\example\RaptorServer\Globals.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RaptorServer.iml" afterPath="$PROJECT_DIR$/RaptorServer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RaptorServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,7 +120,7 @@
       <file leaf-file-name="Globals.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="47" selection-start="161" selection-end="161" vertical-scroll-proportion="0.096045196">
+            <state line="8" column="0" selection-start="225" selection-end="225" vertical-scroll-proportion="0.15367232">
               <folding />
             </state>
           </provider>
@@ -599,13 +602,6 @@
         <state line="27" column="37" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/AsyncConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="86" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java.dist">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="51" selection-start="215" selection-end="223" vertical-scroll-proportion="0.0">
@@ -613,9 +609,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/AsyncConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="86" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/RaptorServer/Globals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="47" selection-start="161" selection-end="161" vertical-scroll-proportion="0.096045196">
+        <state line="8" column="0" selection-start="225" selection-end="225" vertical-scroll-proportion="0.15367232">
           <folding />
         </state>
       </provider>
